@@ -12,6 +12,6 @@ This is my first Git and GitHub Project.
 - Git repository 
 - GitHub upload 
 
-##Author 
+## Author 
 
 Syasya Farahiyah 
