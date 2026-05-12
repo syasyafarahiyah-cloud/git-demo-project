@@ -6,7 +6,7 @@ This line was added directly from GitHUb website.
 
 This is my first Git and GitHub Project.
 
-##Features 
+## Features 
 
 - HTML page
 - Git repository 
